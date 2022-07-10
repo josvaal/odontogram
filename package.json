@@ -1,7 +1,7 @@
 {
   "name": "odontogram",
   "private": true,
-  "homepage":"https://josval1.github.io/odontogram-app",
+  "homepage":"https://josval1.github.io/odontogram",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
